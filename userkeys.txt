@@ -1,0 +1,4 @@
+link : https://390789923943.signin.aws.amazon.com/console
+password : *************
+Access key ID : AKIAVV7HFART6A5CQHUT
+Secret access key : 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
