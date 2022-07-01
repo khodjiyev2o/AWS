@@ -1,0 +1,4 @@
+aws configure --- > add the AIM user and configuration
+aws s3 ls --profile=<User_Name> --> list of buckets,  if the user has permission to read
+aws s3 cp <FILE_PATH> s3://<Bucket_Name> --profile=<Profile_Name> ---> copy file to the bucket
+aws s3 mb s3://<<New_Bucket_Name>> --profile=<<User_Name>>
