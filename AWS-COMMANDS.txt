@@ -6,3 +6,9 @@ aws s3 mb s3://<<New_Bucket_Name>> --profile=<<User_Name>> ---> create new bucke
 
 ## tutorial for uploading static and media files to AWS S3 BUCKET ------------------------>>>>>>>>>>>>>> 
 https://www.caktusgroup.com/blog/2014/11/10/Using-Amazon-S3-to-store-your-Django-sites-static-and-media-files/#s3-bucket-access
+
+
+
+##Hacking tutorial
+
+https://www.hacksplaining.com/
